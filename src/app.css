@@ -1,0 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,regular,500,600,700);
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
