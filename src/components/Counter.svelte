@@ -1,6 +1,5 @@
 <script lang="ts">
-    export let startcount : number;
-    let count = startcount
+    let count = 0
     let increment = () => {
         count++
     }
